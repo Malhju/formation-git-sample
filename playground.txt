@@ -1,8 +1,9 @@
 formation git
-modification
-modification
-modification
+modification1
+modification2
+modification3
 modification4
 modification5
 modification6
 modification7
+modification7 pour rebase
